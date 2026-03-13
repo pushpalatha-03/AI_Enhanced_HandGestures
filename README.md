@@ -162,5 +162,3 @@ The goal of this project is to build a **multi-modal AI assistant** that enhance
 * Implement **smart home automation commands**
 * Add **file management and system monitoring features**
 * Deploy the assistant as a **desktop application**
-
-
